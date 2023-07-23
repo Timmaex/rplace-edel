@@ -1,10 +1,6 @@
-# Instalação de overlay
+# Overlay installieren
 
-1. Fazer download da extensão [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Carregar [aqui](https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js) e instalar o script
-3.  Garantir que po script está ativado <br> ![plot](./assets/active.png) 
-4. Resultado final: <br> ![plot](./assets/result.png) <br>
-
-## Discord: 
-
-[https://discord.gg/tugaplace](https://discord.gg/tugaplace)
+1. Lad das runter und installier das [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+2. Nimm das [hier](https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js) und installier das
+3. Neu laden
+4. Nah genug ranzoomen
