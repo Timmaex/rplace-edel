@@ -1,14 +1,13 @@
 // ==UserScript==
-// @name         Portugal Overlay
+// @name         Edeloverlay
 // @namespace    http://tampermonkey.net/
 // @version      0.2.4
-// @description  Orgulho tuga!
-// @author       Some anon
-// @updateURL    https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js
-// @downloadURL  https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js
+// @description  Edel
+// @author       Vom portugiesen geklaut und umgebaut
+// @updateURL    https://github.com/Timmaex/rplace-edel/raw/main/userscript.user.js
+// @downloadURL  https://github.com/Timmaex/rplace-edel/raw/main/userscript.user.js
 // @match        https://garlic-bread.reddit.com/embed*
 // @match        https://hot-potato.reddit.com/embed*
-// @icon         https://i.pinimg.com/originals/bb/28/f0/bb28f08db88265208c7329474998d8a5.png
 // @grant        none
 // ==/UserScript==
 var overlayImage = null;
@@ -23,7 +22,7 @@ if (window.top !== window.self) {
 }
 
 function updateImage() {
-    overlayImage.src = "https://raw.githubusercontent.com/PortugueseMan/rplace-tuga/main/canva.png"
+    overlayImage.src = "https://raw.githubusercontent.com/Timmaex/rplace-edel/main/canva.png"
 }
 
-setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/PortugueseMan/rplace-tuga/main/canva.png"}, 30000);
+setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/Timmaex/rplace-edel/main/canva.png"}, 30000);
